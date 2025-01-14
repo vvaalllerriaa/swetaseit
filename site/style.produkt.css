@@ -1,0 +1,86 @@
+.menu {
+    width: 0 auto;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.blok {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.blok2 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 290px;
+    margin-bottom: 0px;
+
+}
+
+.blok3 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 580px;
+    margin-bottom: 0px;
+
+}
+
+.blok4 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 870px;
+    margin-bottom: 0px;
+}
+
+.blok5 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 1160px;
+    margin-bottom: 0px;
+
+}
+
+.sagolovok {
+    font-family: "Ledger";
+    font-weight: 400px;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    line-height: 120%;
+    color: #000;
+}
+
+.osnowtext{
+    font-family: "Ledger";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #000;
+    margin-top: 30px;
+}
+
+.serejki1{
+    width: 208px;
+    height: 228px;
+    margin-top: 100px;
+    margin-left: 15%;
+}
+
+.opis{
+    font-family: "Jost";
+    font-weight: 400;
+    font-size: 18px;
+    color: #000;
+    margin-left: 15%;
+}

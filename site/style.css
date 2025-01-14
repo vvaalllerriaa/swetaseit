@@ -1,0 +1,93 @@
+.cont{
+    width: 100%;
+    background: #d0effc;
+    
+}
+
+.menu{
+    width: 0 auto;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.blok{
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.blok2{
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 290px;
+    margin-bottom: 0px;
+    
+}
+
+.blok3 {
+      width: 290px;
+      height: 37px;
+      background: rgba(255, 255, 255, 0.6);
+      margin-top: -37px;
+      margin-left: 580px;
+      margin-bottom: 0px;
+
+}
+
+.blok4 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 870px;
+    margin-bottom: 0px;
+}
+
+.blok5 {
+    width: 290px;
+    height: 37px;
+    background: rgba(255, 255, 255, 0.6);
+    margin-top: -37px;
+    margin-left: 1160px;
+    margin-bottom: 0px;
+
+}
+
+.sagolovok{
+    font-family: "Ledger";
+    font-weight: 400px;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    line-height: 120%;
+    color: #000;
+}
+
+.text{
+    font-family: "Jost";
+    font-weight: 400;
+    font-size: 20px;
+    color: #000;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.textcenter{
+    font-family: "Alkalami";
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    color: #000;
+    margin-top: 15px;
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 42%;
+    margin-bottom: 200px;
+}
